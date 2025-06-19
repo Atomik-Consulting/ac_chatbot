@@ -1,0 +1,11 @@
+langchain
+numpy
+plotly
+dotenv
+scikit-learn
+pandas
+langchain-openai
+langchain_experimental
+langchain[docarray]
+faiss-cpu
+gradio
