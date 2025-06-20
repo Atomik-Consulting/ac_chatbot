@@ -12,6 +12,5 @@ gradio
 transformers
 sentence-transformers
 hf_xet
-
 langchain_ollama
 colab-xterm
