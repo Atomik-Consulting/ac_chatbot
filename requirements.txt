@@ -9,3 +9,9 @@ langchain_experimental
 langchain[docarray]
 faiss-cpu
 gradio
+transformers
+sentence-transformers
+hf_xet
+
+langchain_ollama
+colab-xterm
